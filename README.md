@@ -1,10 +1,4 @@
-<p align="center">
-<a href="https://packagist.org/packages/rene-roscher/upload4k"><img src="https://poser.pugx.org/rene-roscher/upload4k/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/rene-roscher/upload4k"><img src="https://poser.pugx.org/rene-roscher/upload4k/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/rene-roscher/upload4k"><img src="https://poser.pugx.org/rene-roscher/upload4k/license.svg" alt="License"></a>
-</p>
-
-## About Upload4k - Laravel
+## About Upload4k
 
 Upload4k is a open-source file-sharing project with end2end encoding.
 
