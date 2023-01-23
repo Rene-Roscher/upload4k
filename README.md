@@ -1,6 +1,6 @@
 ## About Upload4k
 
-Upload4k is a open-source file-sharing project with end2end encoding.
+Upload4k is a open-source file-sharing project with encryption (server-side).
 
 - just upload files and download zipped.
 - PHP ^7.2
